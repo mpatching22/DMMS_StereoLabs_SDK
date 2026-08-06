@@ -1,7 +1,4 @@
 # Modular-Rooftop-Camera-System-Project
-Design in Mechanical and Mechatronic Systems Industry Project - Modular Rooftop Camera System Project. 
-
-# Modular-Rooftop-Camera-System-Project
 Design in Mechanical and Mechatronic Systems Industry Project - Modular Rooftop Camera System Project. This will be the sole Git repository for all of our software. 
 
 # Cloning This Repository
